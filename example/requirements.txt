@@ -1,0 +1,8 @@
+
+aiogram==3.13.0
+python-dotenv==1.0.0
+SQLAlchemy==2.0.23
+alembic==1.13.0
+colorama==0.4.6
+tqdm==4.66.1
+cachetools==5.3.2
