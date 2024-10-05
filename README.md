@@ -15,7 +15,7 @@ This tool helps you quickly set up a project structure for a Telegram bot using 
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/abdulaziz-backend/aiogram-template.git
 ```
 ## 2. Navigate to the Project Directory
 ```bash
